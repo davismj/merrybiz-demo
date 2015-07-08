@@ -1,0 +1,1 @@
+Q1. Please code a program with Python that most efficiently calculates the combination of tasks that provides the largest total fee in a 100 days. Also, if there is a task that does not complete within the 100 days, the reward will not be provided. Please use “Branch and bound argorithm.
